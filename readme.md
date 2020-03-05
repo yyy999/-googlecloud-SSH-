@@ -36,7 +36,7 @@ passwd root
 /etc/init.d/ssh restart
 ```
 
-1.6.登录XSELL
+1.6.登录XShell
 
 在xshell中，直接使用root账号密码登录。然后在连接>SSH>隧道tcp/ip转移内选择dynamic设置成1080代理,成功连接后会提示用户登录$标志符
 
@@ -47,6 +47,6 @@ passwd root
 
 提供VPS服务
 极客技术群
-加微信yyy99910
+加微信yyy99966
 
 
